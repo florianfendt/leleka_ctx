@@ -1,0 +1,14 @@
+[project]
+name = "leleca_ctx"
+version = "0.1.0"
+description = "Central context hub for Leleka"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.0.0",
+    "pandas>=2.0.0",
+]
+
+[tool.uv]
+managed = true
+package = false
