@@ -5,7 +5,7 @@
 - **status:** permanent
 
 ## abstract
-[Hub for generating and aggregating context]
+[mission brief. Describing project in max. 80 chars.]
 
 ## files_paths
 [List of paths and or files that are critical for project]
